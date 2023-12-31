@@ -1,0 +1,23 @@
+Array
+(
+    [employeeList] => Array
+        (
+            [0] => Array
+                (
+                    [emp_id] => 101
+                )
+
+            [1] => Array
+                (
+                    [emp_id] => 102
+                )
+
+        )
+
+    [deductionTypeList] => Array
+        (
+            [0] => 2
+        )
+
+    [deductionAmount] => 25
+)
